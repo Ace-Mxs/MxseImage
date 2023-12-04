@@ -1,2 +1,2 @@
 # MxseImage
-![image](https://github.com/Ace-Mxs/MxseImage/blob/main/1112.JPG)
+![](https://github.com/Ace-Mxs/MxseImage/blob/main/1112.JPG)
